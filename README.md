@@ -1,2 +1,2 @@
-#My first readme 
-this is readme Updated
+# alx-pre_course
+this is readme
